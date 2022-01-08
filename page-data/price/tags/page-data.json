@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-price-tags-js",
+    "path": "/price/tags/",
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"Free","totalCount":1},{"fieldValue":"Lite","totalCount":1},{"fieldValue":"Pro","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2681795072"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/price/lite",
+    "result": {"data":{"markdownRemark":{"html":"<h1>Plan Lite o estándar</h1>\n<p>Es  el más adecuado para cualquier negocio  ¿que incluye?</p>\n<ul>\n<li>1 dominio myempresa.com  por 3 años</li>\n<li>1 diseño por año</li>\n<li>2 Cambios a los datos de la  página por  año</li>\n</ul>","frontmatter":{"title":"Lite","description":"El pago es único, cubre tu dominio .COM por 3 Años  más  la construción de una pagina estática  y puesta en marcha.","date":"2021-02-02T00:00:00.000Z","slug":"/price/lite","tags":["Lite"]}}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2681795072"]}

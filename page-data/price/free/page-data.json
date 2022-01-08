@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/price/free",
+    "result": {"data":{"markdownRemark":{"html":"<h1>plan gratuito</h1>\n<p>Es necesario que tenga un dominio, el diseño de la pagina con los datos de su negocio es completamente  gratuito.</p>\n<h3>Que incluye?</h3>\n<ul>\n<li>1 Diseño simple con los datos de tu negocio</li>\n</ul>","frontmatter":{"title":"Free","description":"No incluye el dominio, el diseño es basico y  gratuito, lo ponemos en linea completamente gratis.","date":"2021-01-02T00:00:00.000Z","slug":"/price/free","tags":["Free"]}}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2681795072"]}

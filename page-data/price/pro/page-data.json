@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-post-js",
+    "path": "/price/pro",
+    "result": {"data":{"markdownRemark":{"html":"<h2>¿Que incluye el plan pro?</h2>\n<ul>\n<li>\n<p>1 Dominio por 3 años  Myempresa.com</p>\n</li>\n<li>\n<p>1  Cambio a la pagina por Mes durante los tres años</p>\n</li>\n</ul>\n<p>Significa que usted  podrá evaluar sus necesidades, anotarlos durante 1 mes y soliciar que se realicen cambios en los puntos que anotó completamente gratis. No se le cobrará nada.</p>\n<ul>\n<li>\n<p>1 rediseño cada 6 meses, Significa que  durante los tres años tendrá  6 Cambios completos de apariencia de su pagina para mantenerse al dia con la tendencia. (Es lo mas recomendado)</p>\n</li>\n</ul>","frontmatter":{"title":"Pro","description":"Con soporte extendido, cualquier cambio que desee realizar durante los 3 años serán completamente gratuitos. El pago es único.","date":"2021-03-03T00:00:00.000Z","slug":"/price/pro","tags":["Pro"]}}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2681795072"]}

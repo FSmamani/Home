@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/price/tags/pro/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Pro","description":"Con soporte extendido, cualquier cambio que desee realizar durante los 3 años serán completamente gratuitos. El pago es único.","date":"2021-03-03T00:00:00.000Z","slug":"/price/pro","tags":["Pro"]}}}]}},"pageContext":{"tag":"Pro"}},
+    "staticQueryHashes": ["1994492073","2681795072"]}

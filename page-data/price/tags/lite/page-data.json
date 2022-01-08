@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/price/tags/lite/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Lite","description":"El pago es único, cubre tu dominio .COM por 3 Años  más  la construción de una pagina estática  y puesta en marcha.","date":"2021-02-02T00:00:00.000Z","slug":"/price/lite","tags":["Lite"]}}}]}},"pageContext":{"tag":"Lite"}},
+    "staticQueryHashes": ["1994492073","2681795072"]}
